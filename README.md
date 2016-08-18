@@ -6,4 +6,4 @@ The Department of Energy (DOE), by memo dated 05/13/2014, has granted Sandia per
 its copyright in software entitled "Nalu v 1.0".
 
 ### Help
-Please submit a issue request within the github infrastructure.
+Please submit an ![issue](https://github.com/spdomin/NaluHelp/issues) request within the github infrastructure. At present, this page is monitored weekly.
